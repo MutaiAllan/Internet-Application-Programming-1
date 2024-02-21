@@ -5,4 +5,4 @@ SCT212-0170/2022
 Allan Kiprop Mutai
 
 ## B.SC Computer Technology
-Assignments for data structures and algorithm unit for C.T 2.2.
+Assignments for Internet Application Programming 1 unit for C.T 2.2.
